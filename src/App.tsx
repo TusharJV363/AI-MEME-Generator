@@ -59,7 +59,7 @@ function App() {
         <p>
           Speak your mind though memes |  
           {/* Captions by AI via OpenRouter · */}
-          Thy choice speaketh.
+           Thy choice speaketh.
         </p>
       </footer>
     </div>
