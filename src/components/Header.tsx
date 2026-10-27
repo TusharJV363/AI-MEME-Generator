@@ -4,7 +4,7 @@ export function Header() {
       <span className="app-header__logo" aria-hidden="true">🔥</span>
       <div>
         <h1 className="app-header__title">AI Meme Generator</h1>
-        <p className="app-header__subtitle">Naukri AI Bootcamp · Week 01</p>
+        <p className="app-header__subtitle">Turn your thoughts in MeMe</p>
       </div>
     </header>
   )
