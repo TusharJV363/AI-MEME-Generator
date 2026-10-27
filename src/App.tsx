@@ -57,9 +57,9 @@ function App() {
 
       <footer className="app-footer">
         <p>
-          Make your choice, Memes make your days sensible. 
+          Speak your mind though memes |  
           {/* Captions by AI via OpenRouter · */}
-          Images by memegen.link
+          Thy choice speaketh.
         </p>
       </footer>
     </div>
