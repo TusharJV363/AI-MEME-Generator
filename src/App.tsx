@@ -57,8 +57,9 @@ function App() {
 
       <footer className="app-footer">
         <p>
-          Built for the Naukri AI Bootcamp · Captions by AI via OpenRouter ·
-          Images by memegen.link
+          Speak your mind though memes |  
+          {/* Captions by AI via OpenRouter · */}
+           Thy choice speaketh.
         </p>
       </footer>
     </div>
